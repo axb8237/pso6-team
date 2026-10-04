@@ -1,3 +1,5 @@
-Team members: Riley Wen and Aditya Balaji
+Team members: riley-wen and axb8237
+
 Favorite programming language: TBD
-Team motto: Tomato potato
+
+Team motto: Think twice, commit once
